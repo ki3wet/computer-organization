@@ -6,4 +6,5 @@
 
 * [基本概念](xu-lun/ji-ben-gai-nian.md)
 * [计算机工作步骤与存储器基本组成](xu-lun/ji-suan-ji-gong-zuo-bu-zhou-yu-cun-chu-qi-ji-ben-zu-cheng.md)
+* [主存和CPU交互](xu-lun/zhu-cun-he-cpu-jiao-hu.md)
 
