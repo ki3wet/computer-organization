@@ -16,7 +16,7 @@
 
 ### 存储器的基本组成（略）
 
-![](../.gitbook/assets/image.png)
+![](../.gitbook/assets/image%20%284%29.png)
 
 
 

@@ -2,7 +2,7 @@
 
 ### 现代计算机原理图
 
-![](../.gitbook/assets/image%20%282%29.png)
+![](../.gitbook/assets/image.png)
 
 ### 
 
@@ -26,7 +26,7 @@ CPU：运算器+控制器
 
 ### 存储体-存储单元-存储元件
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%289%29.png)
 
 ### 引用
 
