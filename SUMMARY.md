@@ -26,10 +26,11 @@
 
 * [存储器的分类](cun-chu-qi/cun-chu-qi-de-fen-lei.md)
 * [存储器的层次结构](cun-chu-qi/cun-chu-qi-de-ceng-ci-jie-gou.md)
-* [主存和CPU交互](cun-chu-qi/zhu-cun-he-cpu-jiao-hu.md)
-* [主存存储单元地址的分配](cun-chu-qi/zhu-cun-cun-chu-dan-yuan-di-zhi-de-fen-pei.md)
 * [主存中存储单元的地址分配](cun-chu-qi/zhu-cun-zhong-cun-chu-dan-yuan-de-di-zhi-fen-pei.md)
+* [主存和CPU交互](cun-chu-qi/zhu-cun-he-cpu-jiao-hu.md)
+* [主存的技术指标](cun-chu-qi/zhu-cun-de-ji-shu-zhi-biao.md)
 * [半导体存储芯片的基本结构](cun-chu-qi/ban-dao-ti-cun-chu-xin-pian-de-ji-ben-jie-gou.md)
 * [存储芯片片选线的作用](cun-chu-qi/cun-chu-xin-pian-pian-xuan-xian-de-zuo-yong.md)
 * [半导体存储芯片的译码驱动方式](cun-chu-qi/ban-dao-ti-cun-chu-xin-pian-de-yi-ma-qu-dong-fang-shi.md)
+* [Untitled](cun-chu-qi/untitled.md)
 
