@@ -9,24 +9,24 @@
 由统一时标控制数据传输、应用在总线长度比较短，各个模块存取时间比较一致、取应用最长的存取时间为时钟标准   
 特点：定宽定距的时钟、在规定的时间内完成相应的功能
 
-![](../.gitbook/assets/image%20%2833%29.png)
+![](../.gitbook/assets/image%20%2835%29.png)
 
-![](../.gitbook/assets/image%20%2842%29.png)
+![](../.gitbook/assets/image%20%2844%29.png)
 
 ## 异步定时
 
 在异步定时协议中，后一事件出现在总线上的时刻取决于前一事件的出现，即建立在应答式或互锁机制基础上。
 
-![](../.gitbook/assets/image%20%2838%29.png)
+![](../.gitbook/assets/image%20%2840%29.png)
 
-![](../.gitbook/assets/image%20%2834%29.png)
+![](../.gitbook/assets/image%20%2836%29.png)
 
 采用应答方式，没有公共的时标   
 特点：没有定宽定距
 
 ## 半同步通讯
 
-![](../.gitbook/assets/image%20%2844%29.png)
+![](../.gitbook/assets/image%20%2846%29.png)
 
 
 
@@ -40,7 +40,7 @@
 
 充分挖掘系统总线的每一个空隙时间
 
-![](../.gitbook/assets/image%20%2827%29.png)
+![](../.gitbook/assets/image%20%2828%29.png)
 
 ### 特点：
 

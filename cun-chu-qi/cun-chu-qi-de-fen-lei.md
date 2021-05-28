@@ -80,7 +80,7 @@ Cache，介于CPU与内存，平时我们经常看到的是，一级缓存\(L1 C
 
 ## 在计算机的作用分类
 
-![](../.gitbook/assets/image%20%2831%29.png)
+![](../.gitbook/assets/image%20%2833%29.png)
 
 RAM：可读可写 
 

@@ -6,7 +6,7 @@ A．10MB/s   B.20MB/s   C.40MB/s   D.80MB/s
 
 **B**
 
-![](../.gitbook/assets/image%20%2828%29.png)
+![](../.gitbook/assets/image%20%2830%29.png)
 
 ### 2\(10-20\).下列选项中的英文缩写均为总线标准的是:
 

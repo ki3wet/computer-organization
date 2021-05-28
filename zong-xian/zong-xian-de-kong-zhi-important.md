@@ -20,7 +20,7 @@
 
 一般用于微型计算机
 
-![](../.gitbook/assets/image%20%2840%29.png)
+![](../.gitbook/assets/image%20%2842%29.png)
 
 #### Feature
 
@@ -33,7 +33,7 @@
 
 ### 计数器定时查询方式
 
-![](../.gitbook/assets/image%20%2826%29.png)
+![](../.gitbook/assets/image%20%2827%29.png)
 
 #### 步骤
 
