@@ -19,19 +19,19 @@
 
 ## 单总线结构
 
-![](../.gitbook/assets/image%20%2826%29.png)
+![](../.gitbook/assets/image%20%2832%29.png)
 
 缺点：存在争用问题
 
 ## 双总线结构【以CPU为中心】
 
-![](../.gitbook/assets/image%20%2827%29.png)
+![](../.gitbook/assets/image%20%2837%29.png)
 
 缺点：主存和I/O设备信息传输，必须经过CPU，会打断CPU运行
 
 ## 双总线结构【以存储器为中心】
 
-![](../.gitbook/assets/image%20%2828%29.png)
+![](../.gitbook/assets/image%20%2839%29.png)
 
 缺点：主存无法同时应用存储总线与系统总线传输数据
 
