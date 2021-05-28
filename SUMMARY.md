@@ -10,7 +10,16 @@
 * [运算器](xu-lun/yun-suan-qi.md)
 * [控制器](xu-lun/kong-zhi-qi.md)
 * [指令与程序在主机上执行过程](xu-lun/zhi-ling-yu-cheng-xu-zai-zhu-ji-shang-zhi-hang-guo-cheng.md)
-* [Untitled](xu-lun/untitled.md)
+* [计算机的主要指标](xu-lun/ji-suan-ji-de-zhu-yao-zhi-biao.md)
 * [主存中存储单元的地址分配](xu-lun/zhu-cun-zhong-cun-chu-dan-yuan-de-di-zhi-fen-pei.md)
 * [CPU中的主要寄存器](xu-lun/cpu-zhong-de-zhu-yao-ji-cun-qi.md)
+
+## 总线
+
+* [总线的概念](zong-xian/untitled-1.md)
+* [总线的分类](zong-xian/zong-xian-de-fen-lei.md)
+* [总线标准](zong-xian/zong-xian-biao-zhun.md)
+* [总线结构](zong-xian/zong-xian-jie-gou.md)
+* [总线的控制【important】](zong-xian/zong-xian-de-kong-zhi-important.md)
+* [总线的定时和数据传输模式](zong-xian/zong-xian-de-ding-shi-he-shu-ju-chuan-shu-mo-shi.md)
 
