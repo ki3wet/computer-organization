@@ -32,5 +32,8 @@
 * [半导体存储芯片的基本结构](cun-chu-qi/ban-dao-ti-cun-chu-xin-pian-de-ji-ben-jie-gou.md)
 * [存储芯片片选线的作用](cun-chu-qi/cun-chu-xin-pian-pian-xuan-xian-de-zuo-yong.md)
 * [半导体存储芯片的译码驱动方式](cun-chu-qi/ban-dao-ti-cun-chu-xin-pian-de-yi-ma-qu-dong-fang-shi.md)
-* [Untitled](cun-chu-qi/untitled.md)
+* [静态RAM](cun-chu-qi/untitled.md)
+* [动态RAM刷新](cun-chu-qi/dong-tai-ram-shua-xin.md)
+* [动态RAM与静态RAM比较](cun-chu-qi/dong-tai-ram-yu-jing-tai-ram-bi-jiao.md)
+* [只读存储器（ROM）](cun-chu-qi/zhi-du-cun-chu-qi-rom.md)
 
